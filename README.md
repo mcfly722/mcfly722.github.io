@@ -63,3 +63,5 @@ ss -nltu 'sport = 51820'
 sudo tcpdump -nei ens3 tcp port 443
 sudo tcpdump -nei ens3 udp port 51820
 ```
+# to obtain all russina networks for correct routing
+https://ipv4.fetus.jp/ru.txt
